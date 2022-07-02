@@ -1,5 +1,6 @@
 import App from './components/app/app';
+
 import './global.css';
 
-const app = new App();
+let app = new App();
 app.start();
